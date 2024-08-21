@@ -1,0 +1,18 @@
+# Rust build
+/target/
+
+# Arquivos de configuração
+Cargo.lock
+.env
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+
+# Arquivos de configuração de editores
+.vscode/
+.idea/
+*.swp
